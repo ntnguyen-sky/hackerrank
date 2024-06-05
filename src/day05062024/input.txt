@@ -1,0 +1,19 @@
+> 
+> Main verb: 
+> Verbs: 
+> Adverbs:
+> Adjectives:
+> Nouns:
+> Pronouns: 
+> Article:
+> Preposition:
+> Conjunction:
+> Phrasal verb:
+> Noun phrase: 
+
+
+Relative Pronoun : Đại từ quan hệ
+Demonstrative Pronouns : Đại từ chỉ định, this.that.these.those ...
+this. that. these . those + n : Tính từ chỉ định 
+
+<html xmlns:th="http://www.thymeleaf.org">
